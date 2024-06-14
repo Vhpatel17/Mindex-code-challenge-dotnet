@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vhpatel\\Downloads\\Mindex-code-challenge-dotnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|c:\\users\\vhpatel\\downloads\\mindex-code-challenge-dotnet\\code-challenge\\controllers\\compensationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|solutionrelative:code-challenge\\controllers\\compensationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|c:\\users\\vhpatel\\downloads\\mindex-code-challenge-dotnet\\code-challenge\\data\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|solutionrelative:code-challenge\\data\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|c:\\users\\vhpatel\\downloads\\mindex-code-challenge-dotnet\\code-challenge\\data\\employeedataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|solutionrelative:code-challenge\\data\\employeedataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|c:\\users\\vhpatel\\downloads\\mindex-code-challenge-dotnet\\code-challenge\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|solutionrelative:code-challenge\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|c:\\users\\vhpatel\\downloads\\mindex-code-challenge-dotnet\\code-challenge\\services\\compensationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|solutionrelative:code-challenge\\services\\compensationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|c:\\users\\vhpatel\\downloads\\mindex-code-challenge-dotnet\\code-challenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|solutionrelative:code-challenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|c:\\users\\vhpatel\\downloads\\mindex-code-challenge-dotnet\\code-challenge\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|solutionrelative:code-challenge\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|c:\\users\\vhpatel\\downloads\\mindex-code-challenge-dotnet\\code-challenge\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|solutionrelative:code-challenge\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|c:\\users\\vhpatel\\downloads\\mindex-code-challenge-dotnet\\code-challenge\\repositories\\employeerespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|solutionrelative:code-challenge\\repositories\\employeerespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|c:\\users\\vhpatel\\downloads\\mindex-code-challenge-dotnet\\code-challenge\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|solutionrelative:code-challenge\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|c:\\users\\vhpatel\\downloads\\mindex-code-challenge-dotnet\\code-challenge\\models\\compensation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|solutionrelative:code-challenge\\models\\compensation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFCF139-7A42-4E38-B638-856076B0108A}|code-challenge.Tests\\code-challenge.Tests.Integration.csproj|c:\\users\\vhpatel\\downloads\\mindex-code-challenge-dotnet\\code-challenge.tests\\employeecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFCF139-7A42-4E38-B638-856076B0108A}|code-challenge.Tests\\code-challenge.Tests.Integration.csproj|solutionrelative:code-challenge.tests\\employeecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|c:\\users\\vhpatel\\downloads\\mindex-code-challenge-dotnet\\code-challenge\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|solutionrelative:code-challenge\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeRespository.cs",
+              "DocumentMoniker": "C:\\Users\\vhpatel\\Downloads\\Mindex-code-challenge-dotnet\\code-challenge\\Repositories\\EmployeeRespository.cs",
+              "RelativeDocumentMoniker": "code-challenge\\Repositories\\EmployeeRespository.cs",
+              "ToolTip": "C:\\Users\\vhpatel\\Downloads\\Mindex-code-challenge-dotnet\\code-challenge\\Repositories\\EmployeeRespository.cs",
+              "RelativeToolTip": "code-challenge\\Repositories\\EmployeeRespository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T17:11:49.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\vhpatel\\Downloads\\Mindex-code-challenge-dotnet\\code-challenge\\Services\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "code-challenge\\Services\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\vhpatel\\Downloads\\Mindex-code-challenge-dotnet\\code-challenge\\Services\\IEmployeeService.cs",
+              "RelativeToolTip": "code-challenge\\Services\\IEmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T20:54:28.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\vhpatel\\Downloads\\Mindex-code-challenge-dotnet\\code-challenge\\Startup.cs",
+              "RelativeDocumentMoniker": "code-challenge\\Startup.cs",
+              "ToolTip": "C:\\Users\\vhpatel\\Downloads\\Mindex-code-challenge-dotnet\\code-challenge\\Startup.cs",
+              "RelativeToolTip": "code-challenge\\Startup.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T12:55:27.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vhpatel\\Downloads\\Mindex-code-challenge-dotnet\\code-challenge\\Program.cs",
+              "RelativeDocumentMoniker": "code-challenge\\Program.cs",
+              "ToolTip": "C:\\Users\\vhpatel\\Downloads\\Mindex-code-challenge-dotnet\\code-challenge\\Program.cs",
+              "RelativeToolTip": "code-challenge\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T12:54:50.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeContext.cs",
+              "DocumentMoniker": "C:\\Users\\vhpatel\\Downloads\\Mindex-code-challenge-dotnet\\code-challenge\\Data\\EmployeeContext.cs",
+              "RelativeDocumentMoniker": "code-challenge\\Data\\EmployeeContext.cs",
+              "ToolTip": "C:\\Users\\vhpatel\\Downloads\\Mindex-code-challenge-dotnet\\code-challenge\\Data\\EmployeeContext.cs",
+              "RelativeToolTip": "code-challenge\\Data\\EmployeeContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T14:27:33.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeDataSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\vhpatel\\Downloads\\Mindex-code-challenge-dotnet\\code-challenge\\Data\\EmployeeDataSeeder.cs",
+              "RelativeDocumentMoniker": "code-challenge\\Data\\EmployeeDataSeeder.cs",
+              "ToolTip": "C:\\Users\\vhpatel\\Downloads\\Mindex-code-challenge-dotnet\\code-challenge\\Data\\EmployeeDataSeeder.cs",
+              "RelativeToolTip": "code-challenge\\Data\\EmployeeDataSeeder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T16:56:02.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompensationController.cs",
+              "DocumentMoniker": "C:\\Users\\vhpatel\\Downloads\\Mindex-code-challenge-dotnet\\code-challenge\\Controllers\\CompensationController.cs",
+              "RelativeDocumentMoniker": "code-challenge\\Controllers\\CompensationController.cs",
+              "ToolTip": "C:\\Users\\vhpatel\\Downloads\\Mindex-code-challenge-dotnet\\code-challenge\\Controllers\\CompensationController.cs",
+              "RelativeToolTip": "code-challenge\\Controllers\\CompensationController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T14:21:23.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Compensation.cs",
+              "DocumentMoniker": "C:\\Users\\vhpatel\\Downloads\\Mindex-code-challenge-dotnet\\code-challenge\\Models\\Compensation.cs",
+              "RelativeDocumentMoniker": "code-challenge\\Models\\Compensation.cs",
+              "ToolTip": "C:\\Users\\vhpatel\\Downloads\\Mindex-code-challenge-dotnet\\code-challenge\\Models\\Compensation.cs",
+              "RelativeToolTip": "code-challenge\\Models\\Compensation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T14:20:43.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\vhpatel\\Downloads\\Mindex-code-challenge-dotnet\\code-challenge\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "code-challenge\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\vhpatel\\Downloads\\Mindex-code-challenge-dotnet\\code-challenge\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "code-challenge\\Services\\EmployeeService.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAIwBkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T20:47:02.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CompensationService.cs",
+              "DocumentMoniker": "C:\\Users\\vhpatel\\Downloads\\Mindex-code-challenge-dotnet\\code-challenge\\Services\\CompensationService.cs",
+              "RelativeDocumentMoniker": "code-challenge\\Services\\CompensationService.cs",
+              "ToolTip": "C:\\Users\\vhpatel\\Downloads\\Mindex-code-challenge-dotnet\\code-challenge\\Services\\CompensationService.cs",
+              "RelativeToolTip": "code-challenge\\Services\\CompensationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T13:59:41.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\vhpatel\\Downloads\\Mindex-code-challenge-dotnet\\code-challenge.Tests\\EmployeeControllerTests.cs",
+              "RelativeDocumentMoniker": "code-challenge.Tests\\EmployeeControllerTests.cs",
+              "ToolTip": "C:\\Users\\vhpatel\\Downloads\\Mindex-code-challenge-dotnet\\code-challenge.Tests\\EmployeeControllerTests.cs",
+              "RelativeToolTip": "code-challenge.Tests\\EmployeeControllerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T12:55:36.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\vhpatel\\Downloads\\Mindex-code-challenge-dotnet\\code-challenge\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "code-challenge\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\vhpatel\\Downloads\\Mindex-code-challenge-dotnet\\code-challenge\\Models\\Employee.cs",
+              "RelativeToolTip": "code-challenge\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T20:51:26.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\vhpatel\\Downloads\\Mindex-code-challenge-dotnet\\code-challenge\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "code-challenge\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\vhpatel\\Downloads\\Mindex-code-challenge-dotnet\\code-challenge\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "code-challenge\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAmwEkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:53:11.8Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
