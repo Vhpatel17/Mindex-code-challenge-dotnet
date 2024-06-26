@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yPS9Ww/46KE=",
+  "dgSpecHash": "pbrQUvsO0uA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\vhpatel\\Downloads\\Mindex-code-challenge-dotnet\\code-challenge\\code-challenge.csproj",
+  "projectFilePath": "C:\\Users\\vhpatel\\Source\\Repos\\Mindex-code-challenge-dotnet\\code-challenge\\code-challenge.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vhpatel\\.nuget\\packages\\libuv\\1.10.0\\libuv.1.10.0.nupkg.sha512",
     "C:\\Users\\vhpatel\\.nuget\\packages\\microsoft.applicationinsights\\2.4.0\\microsoft.applicationinsights.2.4.0.nupkg.sha512",

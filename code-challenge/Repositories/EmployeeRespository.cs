@@ -31,6 +31,8 @@ namespace challenge.Repositories
         {
             //Due to Lazy loading issues with Entity Frameowrk, .Include is necessary to reference DirectReports
             var employee = _employeeContext.Employees.Include(e => e.DirectReports).SingleOrDefault(e => e.EmployeeId == id);
+            if (employee == null)
+                return null;
             LoadDirectReports(employee);
             return employee;
         }

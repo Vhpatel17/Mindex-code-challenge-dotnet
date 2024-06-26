@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vhpatel\\Downloads\\Mindex-code-challenge-dotnet\\code-challenge.Tests\\code-challenge.Tests.Integration.csproj": {}
+    "C:\\Users\\vhpatel\\Source\\Repos\\Mindex-code-challenge-dotnet\\code-challenge.Tests\\code-challenge.Tests.Integration.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vhpatel\\Downloads\\Mindex-code-challenge-dotnet\\code-challenge.Tests\\code-challenge.Tests.Integration.csproj": {
+    "C:\\Users\\vhpatel\\Source\\Repos\\Mindex-code-challenge-dotnet\\code-challenge.Tests\\code-challenge.Tests.Integration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vhpatel\\Downloads\\Mindex-code-challenge-dotnet\\code-challenge.Tests\\code-challenge.Tests.Integration.csproj",
+        "projectUniqueName": "C:\\Users\\vhpatel\\Source\\Repos\\Mindex-code-challenge-dotnet\\code-challenge.Tests\\code-challenge.Tests.Integration.csproj",
         "projectName": "code-challenge.Tests.Integration",
-        "projectPath": "C:\\Users\\vhpatel\\Downloads\\Mindex-code-challenge-dotnet\\code-challenge.Tests\\code-challenge.Tests.Integration.csproj",
+        "projectPath": "C:\\Users\\vhpatel\\Source\\Repos\\Mindex-code-challenge-dotnet\\code-challenge.Tests\\code-challenge.Tests.Integration.csproj",
         "packagesPath": "C:\\Users\\vhpatel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vhpatel\\Downloads\\Mindex-code-challenge-dotnet\\code-challenge.Tests\\obj\\",
+        "outputPath": "C:\\Users\\vhpatel\\Source\\Repos\\Mindex-code-challenge-dotnet\\code-challenge.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "netcoreapp2.1": {
             "targetAlias": "netcoreapp2.1",
             "projectReferences": {
-              "C:\\Users\\vhpatel\\Downloads\\Mindex-code-challenge-dotnet\\code-challenge\\code-challenge.csproj": {
-                "projectPath": "C:\\Users\\vhpatel\\Downloads\\Mindex-code-challenge-dotnet\\code-challenge\\code-challenge.csproj"
+              "C:\\Users\\vhpatel\\Source\\Repos\\Mindex-code-challenge-dotnet\\code-challenge\\code-challenge.csproj": {
+                "projectPath": "C:\\Users\\vhpatel\\Source\\Repos\\Mindex-code-challenge-dotnet\\code-challenge\\code-challenge.csproj"
               }
             }
           }
@@ -91,14 +91,14 @@
         }
       }
     },
-    "C:\\Users\\vhpatel\\Downloads\\Mindex-code-challenge-dotnet\\code-challenge\\code-challenge.csproj": {
+    "C:\\Users\\vhpatel\\Source\\Repos\\Mindex-code-challenge-dotnet\\code-challenge\\code-challenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vhpatel\\Downloads\\Mindex-code-challenge-dotnet\\code-challenge\\code-challenge.csproj",
+        "projectUniqueName": "C:\\Users\\vhpatel\\Source\\Repos\\Mindex-code-challenge-dotnet\\code-challenge\\code-challenge.csproj",
         "projectName": "code-challenge",
-        "projectPath": "C:\\Users\\vhpatel\\Downloads\\Mindex-code-challenge-dotnet\\code-challenge\\code-challenge.csproj",
+        "projectPath": "C:\\Users\\vhpatel\\Source\\Repos\\Mindex-code-challenge-dotnet\\code-challenge\\code-challenge.csproj",
         "packagesPath": "C:\\Users\\vhpatel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vhpatel\\Downloads\\Mindex-code-challenge-dotnet\\code-challenge\\obj\\",
+        "outputPath": "C:\\Users\\vhpatel\\Source\\Repos\\Mindex-code-challenge-dotnet\\code-challenge\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
